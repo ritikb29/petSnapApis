@@ -1,6 +1,6 @@
 body {
-    background-image: url(/images/background\ image.jpg); /* Fixed the space escape */
-     /* Ensures the background covers the screen */
+/*     background-image: url(/images/background\ image.jpg);  */
+    background-color:black;
     background-position: center;
     margin: 0;
     padding: 0;
