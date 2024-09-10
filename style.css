@@ -24,6 +24,7 @@ body {
     height: 100vh; /* Let the height adjust */
     padding: 10px; /* Adjust padding as needed */
     box-sizing: border-box;
+    background-color:black;
 }
 
 .main-image {
